@@ -1,0 +1,74 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/mnt/d/projects/c360/Campus360Outdoor/Assets/Campus360/" . "Scripts/")
+ ("/mnt/d/projects/c360/Campus360Outdoor/Assets/" . "Campus360/")
+ ("/mnt/d/projects/c360/Campus360Outdoor/" . "Assets/")
+ ("/home/falconlance/.emacs.d/elpa/" . "linum-relative-20180124.1047/")
+ ("/home/" . "falconlance/")
+ ("/" . "home/")
+ ("/home/falconlance/.emacs.d/" . "elpa/")
+ ("/home/falconlance/" . "professional/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/falconlance/professional/"
+ "/home/falconlance/"
+ "/mnt/d/projects/c360/Campus360Outdoor/Assets/Campus360/"
+ "/mnt/d/projects/c360/Campus360Outdoor/Assets/Campus360/Scripts/"
+ "/home/falconlance/.emacs.d/"
+ "/mnt/d/projects/campus360/Campus360Outdoor/Assets/Campus360/Scripts/"
+ "/home/falconlance/.emacs.d/elpa/linum-relative-20180124.1047/"
+ "/home/falconlance/CompSys/"
+ "/home/falconlance/Fun/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "callScripts.txt"
+ "personalStatement.org"
+ "personalStatement.txt"
+ ".profile"
+ "fun.org"
+ "campus_tour.unity"
+ "CameraRotationSaver.cs"
+ "MapNodeChange.cs"
+ "init.el"
+ "AcTriggerAudio.cs.meta"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/falconlance/.emacs.d/" (24796 5736 924219 200000) "init.el~" "init.el" "ido.last~" "ido.last" "eshell/" "elpa/" "auto-save-list/" "../" "./")
+
+ ("/home/falconlance/professional/" (24796 5736 927210 500000) "personalStatement.org" "#personalStatement.txt#" "../" "./")
+
+ ("/home/falconlance/" (24795 63491 380975 300000) "professional/" "bleh.hs~" "bleh.hs" "R/" "ProgLang/" "OS/" "LinearALgebra/" "Fun/" "CompSys/" "ACM/" ".viminfo" ".taskrc" ".task/" ".sudo_as_admin_successful" ".python_history" ".profile" ".gitconfig" ".ghc/" ".emacs.d/" ".bashrc" ".bash_logout" ".bash_history" "#fun.org#" "../" "./")
+
+ ("/home/falconlance/.emacs.d/elpa/linum-relative-20180124.1047/" (24766 24500 978688 800000) "linum-relative.el~" "linum-relative.el" "linum-relative-pkg.el" "linum-relative-autoloads.el" "../" "./")
+
+ ("/mnt/d/projects/campus360/Campus360Outdoor/Assets/Campus360/Scripts/" (24784 51465 267358 600000) "TriggerAudio.cs.meta" "TriggerAudio.cs" "MapNodeChange.cs.meta" "MapNodeChange.cs" "CameraRotationSaver.cs.meta" "CameraRotationSaver.cs" "AudioManager.cs.meta" "AudioManager.cs" "AcTriggerAudio.cs.meta" "AcTriggerAudio.cs" "../" "./")
+
+ ("/mnt/d/projects/c360/Campus360Outdoor/Assets/Campus360/" (24794 2108 685423 800000) "UI_arrow_v2_dark.png.meta" "UI_arrow_v2_dark.png" "UI_arrow_v2.png.meta" "UI_arrow_v2.png" "Scripts.meta" "Scripts/" "Scenes.meta" "Scenes/" "Prefabs.meta" "Prefabs/" "Music.meta" "Music/" "campus_tour.unity.meta" "campus_tour.unity" "C360_UALR_Outside.meta" "C360_UALR_Outside/" "Audio.meta" "Audio/" "../" "./")
+
+ ("/mnt/d/projects/c360/Campus360Outdoor/Assets/Campus360/Scripts/" (24794 1519 848426 300000) "TriggerAudio.cs.meta" "TriggerAudio.cs" "MapNodeChange.cs.meta" "MapNodeChange.cs" "CameraRotationSaver.cs.meta" "CameraRotationSaver.cs" "AudioManager.cs.meta" "AudioManager.cs" "AcTriggerAudio.cs.meta" "AcTriggerAudio.cs" "../" "./")
+
+ ("/mnt/d/projects/c360/Campus360Outdoor/" (24794 2081 365116 400000) "ProjectSettings/" "Packages/" "obj/" "Logs/" "Library/" "Campus360Outdoor.sln" "Assets/" "Assembly-CSharp.csproj" ".vs/" ".gitignore" ".gitattributes" "../" "./")
+
+ ("/mnt/d/projects/c360/" (24794 1047 246509 700000) "README.md" "NodeList.json" "Campus360Outdoor/" "CameraDirectionData.json" ".gitignore" ".gitattributes" ".git/" "../" "./")
+
+ ("/mnt/d/projects/c360/Campus360Outdoor/Assets/" (24794 1051 889587 900000) "TextMesh Pro.meta" "TextMesh Pro/" "sql_manager.cs.meta" "sql_manager.cs" "Resources.meta" "Resources/" "MySql.Data.dll.meta" "MySql.Data.dll" "MenuManager.cs.meta" "MenuManager.cs" "Loading Canvas.prefab.meta" "Loading Canvas.prefab" "DigitalSalmon.meta" "DigitalSalmon/" "Campus360.meta" "Campus360/" "../" "./")
+
+ ("/home/" (24155 13511 101584 200000) "falconlance/" "../" "./")
+
+ ("/home/falconlance/.emacs.d/elpa/" (24762 39295 246237 300000) "linum-relative-20180124.1047/" "haskell-mode-20210507.2243/" "goto-chg-20210508.1632/" "gnupg/" "evil-20210527.2107/" "archives/" "../" "./")
+
+ ("/home/falconlance/Fun/" (24762 38732 868841 700000) "Katahdin" "Interview" "../" "./")
+
+ ("/home/falconlance/CompSys/" (24593 53860 288564 600000) "assignment1.cpp" "assignment1" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

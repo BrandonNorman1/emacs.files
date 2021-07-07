@@ -1,0 +1,19 @@
+ghci
+ghc -o fail ppm.hs
+ls
+touch test.txt
+vi test.txt
+cat test.txt
+./fail
+ls
+cat new.txt
+ghci
+ghc -o fail ppm.hs
+./fail
+cat new.txt
+cat test.txt
+ghc -o fail ppm.hs
+ghci
+ghc -o fail ppm.hs
+./fail
+cat new.txt
